@@ -1,0 +1,92 @@
+
+.app {
+    /* outline: 1px red solid; */
+    margin: 15px;
+}
+
+.title {
+    color: rgb(153, 0, 0);
+    font-size: 50px;
+    margin-bottom: 0px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.subtitle {
+    margin: 10px 0px 10px 0px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.nav-bar-links {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    text-decoration: underline;
+    color: grey;
+    padding-bottom: 20px;
+}
+
+h3 {
+    color: gray;
+    font-weight: lighter;
+    font-family: sans-serif;
+    margin: 0px 0px 5px 0px;
+}
+
+h2 {
+     font-weight: lighter;
+    font-family: sans-serif;
+    margin: 0px 0px 10px 0px;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    color: gray;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+
+span {
+    color: red;
+    margin-left: auto;
+    font-family: sans-serif;
+    /* outline: 1px red solid; */
+    display: block;
+    width: 12%;
+}
+
+hr {
+    margin: 40px 0px 50px 0px;
+}
+
+.foot-box {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    color: grey;
+    padding-bottom: 20px;
+    text-decoration: none;
+    margin-bottom: 0px;
+}
+
+.foot-bar-links {
+    width: 100%;
+    color: red;
+    padding-bottom: 20px;
+    font-size: smaller;
+    /* outline: 1px red solid; */
+    justify-content: space-around;
+    text-align: center;
+    margin: 15px;
+    margin-bottom: 0px;
+}
+
+.copyRight {
+    margin: 0 0 0 15px;
+}
+
+
